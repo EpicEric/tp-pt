@@ -1,7 +1,7 @@
 ---
 title: Dicionário
 ---
-Este é o dicionário com as definições das 120 palavras em toki pona para português. As definições foram escritas a partir do _pu_ e da [Lista Clássica de Palavras em tokipona.net](http://tokipona.net/tp/ClassicWordList.aspx).
+Este é o dicionário com as definições das 120 palavras em toki pona para português. As definições foram escritas a partir do livro _Toki Pona: The Language of Good_ e da [Lista Clássica de Palavras em tokipona.net](http://tokipona.net/tp/ClassicWordList.aspx).
 
 ### _a_ ou _kin_
 
@@ -104,8 +104,6 @@ _ADJETIVO_ amarelo, amarelado
 ### _jo_
 
 _VERBO_ ter, carregar, possuir, segurar
-
-_KAMA_ receber, pegar, tomar, obter
 
 ### _kala_
 
@@ -466,8 +464,6 @@ _SUBSTANTIVO_ conhecimento, sabedoria, compreensão; sistema de crenças ou conh
 _VERBO_ saber, ser habilidoso em, ter informação de; entender
 
 _PRÉ-VERBO_ saber como
-
-_KAMA_ aprender, estudar
 
 ### _soweli_
 

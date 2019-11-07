@@ -34,21 +34,3 @@ w | como **w** em **W**ilson
 A letra **j** é a única pronunciada de jeito diferente do português. O seu som é mais próximo do y e do i, e não deve ser pronunciada como g.
 
 O **w** também deve ser pronunciado como u e não como v.
-
-## Sílabas
-
-Há apenas quatro tipos de sílabas em toki pona. "V" é qualquer vogal, "C" é qualquer consoante, e "n" é a letra n:
-
-- V
-- Vn
-- CV
-- CVn
-
-As duas primeiras só podem aparecer como a primeira sílaba de uma palavra. As duas últimas podem aparecer como qualquer sílaba.
-
-Mesmo obedecendo às regras acima, algumas sílabas não existem em toki pona, porque podem ser confundidas pela pronúncia ou em sotaques de outros idiomas. São elas:
-
-- ti / tin
-- ji / jin
-- wo / won
-- wu / wun
