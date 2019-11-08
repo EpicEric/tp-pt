@@ -1,7 +1,8 @@
 ---
-title: Pronúncia
+title: Alfabeto e pronúncia
 ---
-Em toki pona, há apenas 14 letras: 5 vogais e 9 consoantes.
+
+Em toki pona, há apenas 14 letras: 5 vogais e 9 consoantes. Todas elas são letras do alfabeto latim, então você pode escrever textos em toki pona com qualquer teclado português ou inglês.
 
 ## Vogais
 
@@ -31,6 +32,4 @@ s | como **s** em **s**abor
 t | como **t** em **t**alco
 w | como **w** em **W**ilson
 
-A letra **j** é a única pronunciada de jeito diferente do português. O seu som é mais próximo do y e do i, e não deve ser pronunciada como g.
-
-O **w** também deve ser pronunciado como u e não como v.
+A letra **j** é a única pronunciada de jeito diferente do português. O seu som é mais próximo do y e do i, e não deve ser pronunciada como g. O **w** também deve ser pronunciado como u e não como v.

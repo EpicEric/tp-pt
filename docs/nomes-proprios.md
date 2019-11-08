@@ -4,11 +4,15 @@ title: Nomes próprios
 
 ## Regras gerais
 
+Todas as palavras em toki pona, oficiais ou não, seguem as seguintes regras para evitar o máximo de ambiguidade entre dois falantes:
+
 1. Toda sílaba tem uma consoante, uma vogal, e pode terminar com um **n** opcional.
 2. Apenas a primeira sílaba pode começar com uma vogal, e terminar com **n** também opcional.
 3. As sílabas **ti** e **tin** são trocadas pelas sílabas **si** e **sin**, respectivamente.
 4. A letra **w** não pode aparecer antes de **o** ou **u**.
 5. A letra **j** não pode aparecer antes de **i**.
+6. Não é possível usar um **n** antes de **m** ou outro **n**.
+7. Se a palavra se assemelha com uma palavra oficial em toki pona, adapte-a para não ser confundida. Por exemplo, o nome "Carla" viraria "Kala" pelas regras fonéticas e causar confusão ao conversar sobre "jan kala" (pessoa-peixe). Neste caso, você poderia optar pelo nome "jan Kawa", por exemplo.
 
 ## Guia fonético
 
@@ -33,16 +37,13 @@ v (em **v**ida) | w
 x/ch (em **x**ícara) | s
 z (em **z**arpar) | s
 
-- ...
-- Se a palavra se assemelha com uma palavra oficial em toki pona, adapte-a para não ser confundida. Por exemplo, o nome "Carla" viraria "Kala" pelas regras acima e causar confusão ao conversar sobre "jan kala" (pessoa-peixe). Neste caso, você poderia substituir o nome por "jan Kawa", por exemplo.
-
 Se tiver dificuldades em bolar o seu nome em toki pona, o _website_ [tokipona.net](http://tokipona.net/tp/Transliterate.aspx?Tour=true) possui uma ferramenta para transcrever o seu nome automagicamente. Em português, você geralmente irá usar a opção do resultado "Trilled Tapped R", que seria o som de pa**r**ar na tabela acima.
 
 ## Lista de nomes
 
 ### Línguas
 
-Abaixo, foram reproduzidas algumas das línguas mais comuns. Para ver uma lista completa em inglês, veja [jan Pije (reproduzido de _Toki Pona: The Language of Good_)](http://tokipona.net/tp/janpije/languagenames.php).
+Abaixo, foram reproduzidas algumas das línguas mais comuns, com algumas adições culturais lusofônicas. Para ver toda a lista oficial em inglês, entre em [jan Pije (reproduzido de _Toki Pona: The Language of Good_)](http://tokipona.net/tp/janpije/languagenames.php).
 
 - **_toki Potuke_** - Português
 - **_toki luka Pasila_** - Libras
@@ -71,7 +72,7 @@ Abaixo, foram reproduzidas algumas das línguas mais comuns. Para ver uma lista 
 
 ### Continentes e países
 
-Abaixo, foram reproduzidos apenas alguns países. Para ver uma lista completa em inglês, veja [jan Pije (reproduzido de _Toki Pona: The Language of Good_)](http://tokipona.net/tp/janpije/placenames.php).
+Abaixo, foram reproduzidos apenas alguns países, com algumas adições culturais lusofônicas. Para ver toda a lista oficial em inglês, entre em [jan Pije (reproduzido de _Toki Pona: The Language of Good_)](http://tokipona.net/tp/janpije/placenames.php).
 
 - _ma Amelika_ - Américas
 - _ma Antasika_ - Antártica
@@ -131,6 +132,6 @@ Abaixo, foram reproduzidos apenas alguns países. Para ver uma lista completa em
 
 ### Mapa do Brasil
 
-Você pode usar o mapa do Brasil abaixo para descobrir o nome dos estados e suas capitais.
+Você pode usar o mapa abaixo para descobrir o nomeem toki pona dos estados do Brasil e suas capitais.
 
 ![](../images/ma_Pasila.png)

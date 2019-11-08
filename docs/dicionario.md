@@ -1,6 +1,7 @@
 ---
 title: Dicionário
 ---
+
 Este é o dicionário com as definições das 120 palavras em toki pona para português. As definições foram escritas a partir do livro _Toki Pona: The Language of Good_ e da [Lista Clássica de Palavras em tokipona.net](http://tokipona.net/tp/ClassicWordList.aspx).
 
 ### _a_ ou _kin_
@@ -413,7 +414,7 @@ _PREPOSIÇÃO_ tal qual, como
 
 _ADJETIVO_ fogo, quente; reação química, fonte de calor; explosão, raio
 
-_VERBO_ aquecer, cozinhar
+_VERBO_ aquecer, cozinhar, queimar, acender chama
 
 ### _selo_
 
@@ -503,7 +504,7 @@ _VERBO_ mover-se, andar, movimentar, sair
 
 ### _telo_
 
-_SUBSTANTIVO_ água, líquido, fluido, substância úmida; bebida, molho
+_SUBSTANTIVO_ água, líquido, fluido, substância úmida; bebida
 
 _VERBO_ molhar, lavar
 
