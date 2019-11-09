@@ -1,6 +1,7 @@
 ---
 title: Dicionário
 ---
+# Dicionário
 
 Este é o dicionário com as definições das 120 palavras em toki pona para português. As definições foram escritas a partir do livro _Toki Pona: The Language of Good_ e da [Lista Clássica de Palavras em tokipona.net](http://tokipona.net/tp/ClassicWordList.aspx).
 

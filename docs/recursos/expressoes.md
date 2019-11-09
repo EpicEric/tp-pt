@@ -1,6 +1,7 @@
 ---
 title: Expressões
 ---
+# Expressões
 
 Esta é uma lista compreensiva de expressões comuns convencionadas no dia-a-dia de falantes de toki pona. Geralmente elas possuem o significado descrito na lista abaixo, mas como qualquer frase em toki pona, podem variar em significado e como são descritas de acordo com o contexto.
 

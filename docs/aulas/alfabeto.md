@@ -1,6 +1,7 @@
 ---
 title: Alfabeto e pronúncia
 ---
+# Alfabeto e pronúncia
 
 Em toki pona, há apenas 14 letras: 5 vogais e 9 consoantes. Todas elas são letras do alfabeto latim, então você pode escrever textos em toki pona com qualquer teclado português ou inglês.
 

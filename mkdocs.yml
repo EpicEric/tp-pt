@@ -1,0 +1,11 @@
+site_name: tp-pt
+site_description: tp-pt
+site_author: jan Eliki
+theme: readable
+repo_url: https://github.com/epiceric/tp-pt
+copyright: Copyright &copy; 2019 <a href="https://ericpires.com.br">jan Eliki</a>
+markdown_extensions:
+  - toc:
+      permalink: '#'
+plugins:
+  - search

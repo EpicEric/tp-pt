@@ -1,6 +1,7 @@
 ---
 title: Nomes próprios
 ---
+# Nomes próprios
 
 ## Regras gerais
 
