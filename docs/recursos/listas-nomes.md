@@ -1,6 +1,3 @@
----
-title: Listas de nomes próprios
----
 # Listas de nomes próprios
 
 ## Línguas
@@ -35,6 +32,8 @@ Abaixo, foram reproduzidas algumas das línguas mais comuns, com algumas adiçõ
 ## Continentes e países
 
 Abaixo, foram reproduzidos apenas alguns países, com algumas adições culturais lusofônicas. Para ver toda a lista oficial em inglês, entre em [jan Pije (reproduzido de _Toki Pona: The Language of Good_)](http://tokipona.net/tp/janpije/placenames.php).
+
+Para se referir à nacionalidade de uma pessoa (ex. pessoa brasileira), você pode trocar _ma_ por _jan_ (por exemplo, "eu sou brasileira" seria _mi jan Pasila_).
 
 - _ma Amelika_ - Américas
 - _ma Antasika_ - Antártica
@@ -94,6 +93,6 @@ Abaixo, foram reproduzidos apenas alguns países, com algumas adições culturai
 
 ### Mapa do Brasil
 
-Você pode usar o mapa abaixo para descobrir o nomeem toki pona dos estados do Brasil e suas capitais.
+Você pode usar o mapa abaixo para descobrir o nome em toki pona dos estados do Brasil e suas capitais.
 
 ![ma Pasila](../img/ma_Pasila.png)

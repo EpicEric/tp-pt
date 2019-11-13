@@ -1,6 +1,3 @@
----
-title: Expressões
----
 # Expressões
 
 Esta é uma lista compreensiva de expressões comuns convencionadas no dia-a-dia de falantes de toki pona. Geralmente elas possuem o significado descrito na lista abaixo, mas como qualquer frase em toki pona, podem variar em significado e como são descritas de acordo com o contexto.
@@ -25,7 +22,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _mi wile (e ni)..._ - Eu gostaria de... / Por favor...
 - _pona._ - Obrigado. / Bom.
 - _lon._ - Verdade. / Correto.
-- _pakala!_ - Merda! (palavrões em geral)
+- _pakala!_ - Merda! (exclamação de palavrões em geral)
 - _ken la..._ - Talvez...
 - _... tan seme?_ - ... por quê?
 - _tan la..._ - Porque... / Por causa de...
@@ -36,6 +33,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _mi wile moku._ - Estou com fome.
 - _moku pona._ - Bom apetite.
 - _musi pona._ - Divirta-se.
+- _mi toki e toki Potuke._ - Eu falo português.
 - _mi sona e toki pona._ - Eu sei toki pona.
 - _mi kama sona e toki pona._ - Eu estou aprendendo toki pona.
 
@@ -43,15 +41,16 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 
 - _jan pona_ - Amiga/o
 - _jan ike_ - Inimiga/o
-- _jan sewi_ - Deus, profeta, etc.
 - _jan sama_ - Irmã(o)
 - _mama meli_ - Mãe
 - _mama mije_ - Pai
 - _mama mama_ - Avó ou avô
+- _jan sewi_ - Deus, profeta, etc.
 - _jan utala_ - Soldada/o ou lutador(a)
 - _jan lili_ - Criança
 - _jan suli_ - Adulta/o ou idosa/o
 - _jan lawa_ - Líder
+- _jan toki_ - Palestrante, orador ou linguista
 - _jan alasa_ - Caçador(a) ou fazendeira/o
 - _pona lukin_ - Bonita/o
 - _ike lukin_ - Feia/o
@@ -67,9 +66,10 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _tomo sona_ - Escola
 - _tomo lipu_ - Biblioteca
 - _tomo pali_ - Escritório ou lugar de trabalho
-- _ma suli_ - Mundo ou planeta
+- _tomo pi nasin sewi_ - Construção religiosa, templo, igreja, etc.
 - _esun suli_ - Mercado ou shopping center
 - _tomo sewi_ - Arranha-céu
+- _ma suli_ - Mundo ou planeta
 
 ## Natureza
 
@@ -87,6 +87,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _kon seli_ - Fumaça
 - _sike waso_ - Ovo
 - _telo mama_ - Leite
+- _telo moli_ - Veneno
 
 ## Objetos
 
@@ -126,6 +127,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _kama jo_ - Receber, pegar, tomar ou obter
 - _pana sona_ - Ensinar
 - _sike (e) suno_ - Circundar o sol (completar um ano, fazer aniversário)
+- _sike (e) mun_ - Circundar a lua (completar um mês)
 
 ## Artes
 

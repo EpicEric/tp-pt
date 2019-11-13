@@ -1,6 +1,3 @@
----
-title: Referências
----
 # Referências
 
 Muito do material neste site foi adaptado de outras fontes sobre toki pona e aulas, escritas em outras línguas. Você pode conferi-los para aprender mais sobre a língua por sua própria conta.

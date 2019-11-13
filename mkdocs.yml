@@ -9,3 +9,16 @@ markdown_extensions:
       permalink: '#'
 plugins:
   - search
+nav:
+  - 'Página inicial': 'index.md'
+  - 'Aulas':
+    - '1. Introdução': 'aulas/introducao.md'
+    - '2. Alfabeto e pronúncia': 'aulas/alfabeto.md'
+    - '?. Nomes próprios': 'aulas/nomes-proprios.md'
+  - 'Recursos':
+    - 'Dicionário': 'recursos/dicionario.md'
+    - 'Dicionário de expressões': 'recursos/expressoes.md'
+    - 'Listas de nomes próprios': 'recursos/listas-nomes.md'
+    - 'Sistemas de escrita': 'recursos/escrita.md'
+    - 'Referências': 'recursos/referencias.md'
+    - 'Créditos': 'recursos/creditos.md'

@@ -1,6 +1,3 @@
----
-title: Introdução
----
 # Introdução
 
 _kama pona!_
