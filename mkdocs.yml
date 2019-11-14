@@ -1,14 +1,18 @@
 site_name: tp-pt
 site_description: tp-pt
 site_author: jan Eliki
-theme: readable
+theme:
+  name: readable
+  custom_dir: custom_theme/
 repo_url: https://github.com/epiceric/tp-pt
-copyright: Copyright &copy; 2019 <a href="https://ericpires.com.br">jan Eliki</a>
+# copyright: Copyright &copy; 2019 <a href="https://ericpires.com.br">jan Eliki</a>
 markdown_extensions:
   - toc:
       permalink: '#'
-plugins: [search]
-extra_css: [extra.css]
+plugins:
+  - search:
+      lang: pt
+extra_css: [css/extra.css]
 nav:
   - 'Página inicial': 'index.md'
   - 'Aulas':

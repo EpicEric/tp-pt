@@ -1,0 +1,9 @@
+details summary {
+  display: list-item;
+  font-weight: 700;
+}
+
+/* Baseado em: https://stackoverflow.com/questions/483212/effective-method-to-hide-email-from-spam-bots */
+.cryptedmail:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld); 
+}

@@ -8,7 +8,7 @@ Muito do material neste site foi adaptado de outras fontes sobre toki pona e aul
 
 ## Aulas
 
-- [**o kama sona e toki pona**](http://tokipona.net/tp/janpije/okamasona.php) por jan Pije (em inglês).
+- [**o kama sona e toki pona!**](http://tokipona.net/tp/janpije/okamasona.php) por jan Pije (em inglês).
 - [**12 Days of sona pi toki pona**](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6) por jan Misali (em inglês; vídeo-aulas).
 
 ## Dicionários
