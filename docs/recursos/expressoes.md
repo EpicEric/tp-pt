@@ -93,6 +93,8 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 
 - _telo nasa_ - Álcool ou bebida alcóolica
 - _tomo tawa_ - Carro
+- _ilo tawa pi sike tu_ - Bicicleta ou motocicleta
+- _tomo tawa pi jan mute_ - Ônibus
 - _ilo toki_ - Celular
 - _ilo nanpa_/_ilo sona_ - Computador
 - _kasi nasa_ - Maconha
@@ -141,4 +143,4 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _nasin sewi_ - Religião
 - _selo sike_ - Circunferência, perímetro
 - _toki ilo_ - Linguagem de programação
-- _telo wawa_ - Café
+- _telo wawa_ - Café ou combustível
