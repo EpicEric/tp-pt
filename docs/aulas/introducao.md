@@ -18,4 +18,8 @@ Há algo de desafiador em aprender um novo idioma, em especial quando você é f
 
 Se você ainda tiver interesse mas tiver dúvidas, sinta-se à vontade para pedir ajuda! A comunidade está sempre disposta a ajudar novos falantes. Se tiver qualquer dúvida ou curiosidade, você pode entrar em contato comigo: <a href="#" class="cryptedmail" data-name="janeliki" data-domain="ericpires" data-tld="com.br" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a>
 
-Divirta-se! _musi pona!_
+Ainda quer aprender toki pona? Divirta-se! _musi pona!_
+
+---
+
+Na primeira aula, falaremos sobre a escrita e pronunciação do alfabeto.

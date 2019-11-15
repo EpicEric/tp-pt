@@ -40,11 +40,21 @@ Em toki pona, todas as palavras têm como sílaba tônica a primeira sílaba. Ou
 
 Experimente pronunciar as seguintes palavras e verifique se falou corretamente:
 
-&nbsp; | &nbsp; | &nbsp; | &nbsp;
--|-|-|-
-<details><summary>_pona_</summary><p>PÔ-na</p></details> | <details><summary>_linja_</summary><p>LÍN-ya</p></details> | <details><summary>_esun_</summary><p>Ê-ssun</p></details> | <details><summary>_walo_</summary><p>UÁ-lo</p></details>
-<details><summary>_sitelen_</summary><p>SÍ-te-len</p></details> | <details><summary>_kama_</summary><p>KÁ-ma</p></details> | <details><summary>_toki_</summary><p>TÔ-ki</p></details> | <details><summary>_pimeja_</summary><p>PÍ-me-ya</p></details>
+&nbsp; | &nbsp;
+-|-
+<details><summary>_pona_</summary><p>PÔ-na</p></details> | <details><summary>_linja_</summary><p>LÍN-ya</p></details>
+<details><summary>_esun_</summary><p>Ê-ssun</p></details> | <details><summary>_walo_</summary><p>UÁ-lo</p></details>
+<details><summary>_sitelen_</summary><p>SÍ-te-len</p></details> | <details><summary>_kama_</summary><p>KÁ-ma</p></details>
+<details><summary>_toki_</summary><p>TÔ-ki</p></details> | <details><summary>_pimeja_</summary><p>PÍ-me-ya</p></details>
 
 Agora tente ler as seguintes frases:
 
 <details><summary><em>mi jo e soweli lili pona. ona li wile moku la, ona li mu tawa jan.</em></summary><p><p>MÍ YÔ Ê SÔ-ue-li LÍ-li. Ô-na LÍ UÍ-le MÔ-ku LÁ, Ô-na LÍ MÚ TÁ-ua IÁN.</p><p>Aliás, este texto quer dizer: "Eu tenho um bom gatinho. Quando ele está com fome, ele mia para as pessoas."</p></p></details>
+
+Conseguiu? Muito bom! _pona mute!_
+
+Teve dificuldades? Não tem problema. Você pode continuar para a próxima aula e revisitar esta lição quando estiver mais confortável.
+
+---
+
+Na próxima aula, vamos começar a ver frases simples.

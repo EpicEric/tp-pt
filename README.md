@@ -9,6 +9,7 @@ Lembre-se de adicionar o seu nome à lista em [`docs/recursos/creditos.md`](docs
 ## TO-DO
 
 - Terminar recurso "Sistemas de escrita"
-- Organizar material de todas as aulas (ex. vocabulário, ordem, quantidade)
-- Terminar aula "Nomes próprios"
+- Criar página inicial
+- Criar aulas restantes (ex. vocabulário, ordem, quantidade)
+- Documentação de desenvolvimento neste README
 - Melhorar formatação do Markdown

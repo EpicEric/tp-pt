@@ -58,9 +58,11 @@
 {%- endblock %}
 
 {%- block footer %}
+{%- if page and not page.previous_page %}
 <hr>
 {%- if config.copyright %}
     <p>{{ config.copyright }}</p>
 {%- endif %}
-<p>Livro criado com <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+<p>Feito com <i class="fa fa-heart"></i> com <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+{%- endif %}
 {%- endblock %}

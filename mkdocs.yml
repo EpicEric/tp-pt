@@ -5,7 +5,6 @@ theme:
   name: readable
   custom_dir: custom_theme/
 repo_url: https://github.com/epiceric/tp-pt
-# copyright: Copyright &copy; 2019 <a href="https://ericpires.com.br">jan Eliki</a>
 markdown_extensions:
   - toc:
       permalink: '#'
@@ -18,10 +17,10 @@ nav:
   - 'Aulas':
     - '1. Introdução': 'aulas/introducao.md'
     - '2. Alfabeto e pronúncia': 'aulas/alfabeto.md'
-    - '?. Nomes próprios': 'aulas/nomes-proprios.md'
   - 'Recursos':
     - 'Dicionário': 'recursos/dicionario.md'
     - 'Dicionário de expressões': 'recursos/expressoes.md'
+    - 'Guia para nomes próprios': 'recursos/nomes-proprios.md'
     - 'Listas de nomes próprios': 'recursos/listas-nomes.md'
     - 'Sistemas de escrita': 'recursos/escrita.md'
     - 'Referências': 'recursos/referencias.md'
