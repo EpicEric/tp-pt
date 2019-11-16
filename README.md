@@ -1,14 +1,12 @@
 # tp-pt
 
-Curso de toki pona em português, com recursos para aprofundar no aprendizado.
-
-## Contribuindo
-
-Lembre-se de adicionar o seu nome à lista em [`docs/recursos/creditos.md`](docs/recursos/creditos.md).
+Curso de toki pona em português, com aulas e recursos adicionais para estudar a língua.
 
 ## TO-DO
 
-- Criar página inicial
-- Criar aulas restantes (ex. vocabulário, ordem, quantidade)
-- Documentação para desenvolvimento neste README
+- Definir aulas restantes (ex. vocabulário, ordem, quantas aulas)
+- Criar aulas
+- Montar CI/CD e subir website
+- Adicionar documentação de desenvolvimento neste README
 - Melhorar formatação do Markdown
+
