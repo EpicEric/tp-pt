@@ -95,4 +95,4 @@ Para se referir à nacionalidade de uma pessoa (ex. pessoa brasileira), você po
 
 Você pode usar o mapa abaixo para descobrir o nome em toki pona dos estados do Brasil e suas capitais.
 
-![ma Pasila](../img/ma_Pasila.png)
+![ma Pasila](../img/mapas/ma_Pasila.png)
