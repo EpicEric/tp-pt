@@ -26,7 +26,7 @@ Depende do que você quer dizer com "fácil". Há alguns aspectos da linguagem q
 
 3. Por fim, a sintaxe de toki pona se assemelha em alguns aspectos com o português, mas algumas regras que não existem na nossa língua podem dificultar o entendimento se você não estiver familiarizado.
 
-Mesmo assim, toki pona pode ser aprendida na íntegra em apenas alguns dias. Alguns outros recursos que ensinam a língua falam que você consegue aprendê-la em 14, 12, 10 ou até mesmo 7 dias - e algumas pessoas conseguiram aprender num curso intensivo em apenas 2! Então uma resposta melhor à pergunta seria que "você pode aprendê-la em pouco tempo, mas requer dedicação nos estudos". O ideal, claro, é dedicar o tempo que você precisar.
+Mesmo assim, toki pona pode ser aprendida na íntegra em apenas alguns dias. Alguns outros recursos que ensinam a língua falam que você consegue aprendê-la em 14, 12, 10 ou até mesmo 7 dias - e algumas pessoas conseguem aprender em um curso intensivo em apenas 2 dias! Então uma resposta melhor à pergunta seria que "você pode aprendê-la em pouco tempo, mas requer dedicação nos estudos". O ideal, claro, é não estabelecer um prazo, e dedicar o tempo que você precisar.
 
 ## Quero começar a aprender!
 

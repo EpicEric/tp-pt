@@ -1,4 +1,4 @@
-# Alfabeto e pronúncia
+# 1. Alfabeto e pronúncia
 
 Em toki pona, há apenas 14 letras: 5 vogais e 9 consoantes. Todas elas são letras do alfabeto latim, então você pode escrever textos em toki pona com qualquer teclado português ou inglês.
 
@@ -36,6 +36,12 @@ A letra **j** é a única pronunciada de jeito diferente do português. O seu so
 
 Em toki pona, todas as palavras têm como sílaba tônica a primeira sílaba. Ou seja, você deve dar ênfase à primeira sílaba de uma palavra.
 
+## Capitalização
+
+Todas as palavras oficiais em toki pona começam com letra minúscula, mesmo que apareçam no começo da frase.
+
+**Há palavras que começam com letra maiúscula?** Sim, como nomes próprios. Veremos mais sobre elas na aula 8.
+
 ## Exemplos
 
 Experimente pronunciar as seguintes palavras e verifique se falou corretamente:
@@ -57,4 +63,4 @@ Teve dificuldades? Não tem problema. Você pode continuar para a próxima aula 
 
 ---
 
-Na próxima aula, vamos começar a ver frases simples.
+Na próxima aula, vamos ver frases simples, com sujeito e predicado.
