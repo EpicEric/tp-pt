@@ -40,22 +40,28 @@ Em toki pona, todas as palavras têm como sílaba tônica a primeira sílaba. Ou
 
 Todas as palavras oficiais em toki pona começam com letra minúscula, mesmo que apareçam no começo da frase.
 
-**Há palavras que começam com letra maiúscula?** Sim, como nomes próprios. Veremos mais sobre elas na aula 8.
+**Há palavras que começam com letra maiúscula?** Sim, os nomes próprios. Veremos sobre eles na aula 8.
 
 ## Exemplos
 
 Experimente pronunciar as seguintes palavras e verifique se falou corretamente:
 
-&nbsp; | &nbsp;
--|-
-<details><summary>_pona_</summary><p>PÔ-na</p></details> | <details><summary>_linja_</summary><p>LÍN-ya</p></details>
-<details><summary>_esun_</summary><p>Ê-ssun</p></details> | <details><summary>_walo_</summary><p>UÁ-lo</p></details>
-<details><summary>_sitelen_</summary><p>SÍ-te-len</p></details> | <details><summary>_kama_</summary><p>KÁ-ma</p></details>
-<details><summary>_toki_</summary><p>TÔ-ki</p></details> | <details><summary>_pimeja_</summary><p>PÍ-me-ya</p></details>
+<p>
+<details><summary><em>pona</em></summary><p>PÔ-na</p></details>
+<details><summary><em>linja</em></summary><p>LÍN-ya</p></details>
+<details><summary><em>esun</em></summary><p>Ê-ssun</p></details>
+<details><summary><em>walo</em></summary><p>UÁ-lo</p></details>
+<details><summary><em>sitelen</em></summary><p>SÍ-te-len</p></details>
+<details><summary><em>kama</em></summary><p>KÁ-ma</p></details>
+<details><summary><em>toki</em></summary><p>TÔ-ki</p></details>
+<details><summary><em>pimeja</em></summary><p>PÍ-me-ya</p></details>
+</p>
 
 Agora tente ler as seguintes frases:
 
+<p>
 <details><summary><em>mi jo e soweli lili pona. ona li wile moku la, ona li mu tawa jan.</em></summary><p><p>MÍ YÔ Ê SÔ-ue-li LÍ-li. Ô-na LÍ UÍ-le MÔ-ku LÁ, Ô-na LÍ MÚ TÁ-ua IÁN.</p><p>Aliás, este texto quer dizer: "Eu tenho um bom gatinho. Quando ele está com fome, ele mia para as pessoas."</p></p></details>
+</p>
 
 Conseguiu? Muito bom! _pona mute!_
 

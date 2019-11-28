@@ -16,21 +16,20 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _seme li sin?_ - O que há de novo?
 - _mi tawa._ - Adeus. (quando você está indo embora)
 - _tawa pona._ - Boa viagem. (em resposta a alguém indo embora)
-- _lape pona._ - Bons sonhos.
 - _a a a!_ - Hahaha!
 - _ike a!_ - Oh céus! / Que pena!
 - _mi wile (e ni)..._ - Eu gostaria de... / Por favor...
 - _pona._ - Obrigado. / Bom.
 - _lon._ - Verdade. / Correto.
-- _pakala!_ - Merda! (exclamação de palavrões em geral)
+- _pakala!_ - (interjeição de palavrão, por exemplo "Merda!")
 - _ken la..._ - Talvez...
-- _... tan seme?_ - ... por quê?
-- _tan la..._ - Porque... / Por causa de...
-- _sina pona._ - Você é boa/bom.
+- _sina pona._ - Você é boa/bom. / Você está bem.
 - _... li pona tawa mi._ - Eu gosto de...
 - _mi olin e sina._ - Eu te amo.
 - _mi wile lape._ - Estou com sono.
 - _mi wile moku._ - Estou com fome.
+- _mi wile moku e telo._ - Estou com sede.
+- _lape pona._ - Bons sonhos.
 - _moku pona._ - Bom apetite.
 - _musi pona._ - Divirta-se.
 - _mi toki e toki Potuke._ - Eu falo português.
@@ -88,6 +87,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _sike waso_ - Ovo
 - _telo mama_ - Leite
 - _telo moli_ - Veneno
+- _kasi nasa_ - Maconha
 
 ## Objetos
 
@@ -97,9 +97,9 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _tomo tawa pi jan mute_ - Ônibus ou trem ou metrô
 - _ilo toki_ - Celular
 - _ilo nanpa_/_ilo sona_ - Computador
-- _kasi nasa_ - Maconha
 - _lipu nimi_ - Dicionário
 - _telo pimeja_ - Tinta
+- _telo wawa_ - Café ou combustível
 - _ilo kalama_ - Instrumento musical ou altofalante
 - _ilo moku_ - Talher (garfo, faca, colher)
 - _supa lape_ - Cama
@@ -110,9 +110,9 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 ## Corpo
 
 - _palisa mije_ - Pênis
-- _sike (tu) mije_ - Testículo(s)
+- _sike mije (tu)_ - Testículo(s)
 - _lupa meli_ - Vagina
-- _nena (sike) meli_ - Seio(s)
+- _nena (sike) meli (tu)_ - Seio(s)
 - _lupa monsi_ - Ânus
 - _telo loje_ - Sangue
 - _linja lawa_ - Cabelo
@@ -123,14 +123,6 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _kiwen uta_ - Dente(s)
 - _palisa uta_ - Língua
 
-## Ações
-
-- _kama sona_ - Aprender, estudar ou compreender
-- _kama jo_ - Receber, pegar, tomar ou obter
-- _pana sona_ - Ensinar
-- _sike (e) suno_ - Circundar o sol (completar um ano, fazer aniversário)
-- _sike (e) mun_ - Circundar a lua (completar um mês)
-
 ## Artes
 
 - _kalama musi_ - Música
@@ -138,9 +130,37 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _sitelen musi_ - Pintura
 - _sitelen tawa_ - Vídeo ou filme
 
+## Perguntas e respostas
+
+- _... anu seme?_ - ... ou o quê? (transforma a frase em uma pergunta de sim ou não)
+- _... tan seme?_ - ... por quê?
+- _tan la..._ - Porque... / Por causa de...
+- _jan seme_ - Quem
+- _lon seme_ - Onde / Aonde
+
+## Ações
+
+- _kama sona_ - Aprender, estudar ou compreender
+- _kama jo_ - Receber, pegar, tomar ou obter
+- _pana sona_ - Ensinar
+- _pana pona_ - Ajudar
+- _sike e suno_ - Circundar o sol (completar um ano; fazer aniversário)
+- _sike e mun_ - Circundar a lua (completar um mês)
+
+## Tempo
+
+- _tenpo ni_ - Agora
+- _tenpo suno_ - Dia
+- _tenpo pimeja_ - Noite
+- _tenpo suno ni_ - Hoje
+- _tenpo pimeja ni_ - Hoje à noite
+- _tenpo kama_ - Futuro
+- _tenpo pini_ - Passado
+- _tenpo mute_ - Frequentemente
+- _tenpo lili_ - Raramente
+
 ## Outros
 
 - _nasin sewi_ - Religião
 - _selo sike_ - Circunferência, perímetro
 - _toki ilo_ - Linguagem de programação
-- _telo wawa_ - Café ou combustível

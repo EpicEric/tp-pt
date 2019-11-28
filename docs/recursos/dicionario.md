@@ -22,11 +22,11 @@ _VERBO_ caçar, coletar, colher, perseguir
 
 #### _ale_ ou _ali_
 
-_ADJETIVO_ tudo; abundante, incontável, farto, todos; completo, todo
+_ADJETIVO_ tudo; abundante, incontável, farto; completo, todo
 
-_SUBSTANTIVO_ abundância, tudo, vida, universo
+_SUBSTANTIVO_ abundância, vida, universo
 
-_NÚMERO_ cem (100)
+_NÚMERO_ todos; alternativamente, cem (100)
 
 #### _anpa_
 
@@ -268,7 +268,7 @@ _VERBO_ morrer, matar
 
 #### _monsi_
 
-_SUBSTANTIVO_ costas, retraguarda, traseira; bunda
+_SUBSTANTIVO_ costas, retaguarda, traseira; bunda
 
 #### _mu_
 
@@ -276,17 +276,21 @@ _PARTÍCULA_ (som de animal ou comunicação)
 
 #### _mun_
 
-_SUBSTANTIVO_ lua, objeto do céu noturno, estrela
+_SUBSTANTIVO_ lua; objeto do céu noturno, estrela
 
 #### _musi_
 
-_ADJETIVO_ artístico, entretenimento, frívolo, brincalhão, recreacional, divertido, entretido; de jogo
+_SUBSTANTIVO_ jogo, entretenimento; brincadeira
+
+_ADJETIVO_ artístico, frívolo, brincalhão, recreacional, divertido, entretido; engraçado
 
 #### _mute_
 
 _ADJETIVO_ vários, muitos, mais, múltiplos, bastante
 
 _SUBSTANTIVO_ quantidade, abundância
+
+_NÚMERO_ três (3) ou mais; alternativamente, vinte (20)
 
 #### _nanpa_
 
@@ -360,7 +364,7 @@ _VERBO_ dar, enviar, emitir, prover, colocar, soltar
 
 #### _pi_
 
-_PARTÍCULA_ de
+_PARTÍCULA_ de (introduz um adjetivo composto)
 
 #### _pilin_
 
@@ -386,7 +390,7 @@ _SUBSTANTIVO_ inseto, formiga, aranha
 
 #### _poka_
 
-_SUBSTANTIVO_ quadril, lado; ao lado de, próximo de, vizinhança; acompanhante
+_SUBSTANTIVO_ quadril, lado; ao lado de, próximo de, vizinhança; junto, acompanhante
 
 #### _poki_
 
@@ -486,7 +490,7 @@ _ADJETIVO_ doce, perfumado, adocicado; fofo, inocente, adorável
 
 #### _tan_
 
-_PREPOSIÇÃO_ desde, origem, por causa de; originário de
+_PREPOSIÇÃO_ desde, origem, porque, por causa de; originário de
 
 #### _taso_
 
@@ -562,7 +566,7 @@ _SUBSTANTIVO_ pássaro, criatura voadora, animal alado
 
 _SUBSTANTIVO_ energia, poder, força
 
-_ADJETIVO_ forte, poderoso; confiante, convicto; energético, intenso; barulhento, veloz
+_ADJETIVO_ confiante, convicto; energético, intenso; barulhento, veloz
 
 #### _weka_
 
