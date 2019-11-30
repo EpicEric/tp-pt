@@ -2,10 +2,13 @@
 
 Curso de toki pona em português, com aulas e recursos adicionais para estudar a língua.
 
+## Status
+
+Em construção. Versão alfa disponível em https://tp-pt.netlify.com.
+
 ## TO-DO
 
-- Criar aulas
-- Montar CI/CD e subir website
+- Escrever material das aulas
+- Subir website em domínio oficial
 - Adicionar documentação de desenvolvimento neste README
 - Melhorar formatação do Markdown
-

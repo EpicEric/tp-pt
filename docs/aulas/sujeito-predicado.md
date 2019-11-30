@@ -5,13 +5,13 @@ A parte mais básica de qualquer língua é comunicar ações e estado. Para iss
 ## Vocabulário
 
 - _li_: Separa o sujeito de uma oração e seu predicado.
-- _ni_: Essa/esse, aquela/aquele, isto.
+- _ijo_: Coisa.
+- _jan_: Pessoa.
 - _kili_: Fruta, legume, cogumelo.
 - _moku_: Comer; comida.
-- _jan_: Pessoa.
-- _toki_: Falar, comunicar; língua.
-- _ijo_: Coisa.
+- _ni_: Essa/esse, aquela/aquele, isto.
 - _telo_: Molhar; líquido, água.
+- _toki_: Falar, comunicar; língua.
 
 ## Aula
 
@@ -35,7 +35,7 @@ Simples assim!
 
 Geralmente, o predicado começa com um verbo, como na frase de exemplo acima, _jan li moku_ (onde _moku_ é "comer"). Porém, na segunda frase, _ni li kili_, o predicado _kili_ quer dizer "fruta".
 
-Em toki pona, não há diferença entre as duas formas de formar orações. Por exemplo, _jan li moku_ também poderia ser traduzido como "a pessoa é uma comida". Nessas situações, é preciso usar o contexto (e um pouco de bom-senso!) para interpretar corretamente o significado da frase.
+Em toki pona, não há diferença entre as duas formas de estruturar orações. Por exemplo, _jan li moku_ também poderia ser traduzido como "a pessoa é uma comida". Nessas situações, é preciso usar o contexto (e um pouco de bom-senso!) para interpretar corretamente o significado da frase.
 
 ### E o resto?
 

@@ -66,5 +66,20 @@
     <p>{{ config.copyright }}</p>
 {%- endif %}
 <p>Feito com <i class="fa fa-heart"></i> com <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+{%- if config.repo_url -%}
+<p>
+    <a href="{{ config.repo_url }}" class="nav-link">
+        {%- if config.repo_name == 'GitHub' -%}
+            <i class="fa fa-github"></i> {{ config.repo_name }}
+        {%- elif config.repo_name == 'Bitbucket' -%}
+            <i class="fa fa-bitbucket"></i> {{ config.repo_name }}
+        {%- elif config.repo_name == 'GitLab' -%}
+            <i class="fa fa-gitlab"></i> {{ config.repo_name }}
+        {%- else -%}
+            {{ config.repo_name }}
+        {%- endif -%}
+    </a>
+</p>
+{%- endif %}
 {%- endif %}
 {%- endblock %}

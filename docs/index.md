@@ -38,4 +38,4 @@ Além das aulas, este site possui um diretório de recursos, acessível pela gui
 
 ## Quero ajudar outros falantes de toki pona!
 
-_sina pona a!_ Este site está disponível [como código aberto no GitHub](https://github.com/EpicEric/tp-pt), então estamos sempre aceitando contribuições! Acesse o repositório e ajude.
+_sina pona a!_ Este site está disponível [como código aberto](https://github.com/EpicEric/tp-pt), então estamos sempre aceitando contribuições! Acesse o repositório e ajude.

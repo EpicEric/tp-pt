@@ -14,7 +14,8 @@ Muito do material neste site foi adaptado de outras fontes sobre toki pona e aul
 ## Dicionários
 
 - [Dicionário oficial de **Toki Pona: The Language of Good**](http://tokipona.net/tp/janpije/dictionary.php) por jan Sonja e reproduzido por jan Pije (em inglês).
-- [**Classic Word List (improved!)**](http://tokipona.net/tp/ClassicWordList.aspx) por tokipona.net (em inglês).
+- [**Classic Word List (improved!)**](http://tokipona.net/tp/ClassicWordList.aspx) por tokipona.net (em inglês). Inclui palavras já extintas de versões prévias do dicionário oficial.
+- [**nimi ale pona**](https://docs.google.com/document/d/10hP3kR7mFN0E6xW3U6fZyDf7xKEEvxssM96qLq4E0ms/edit) por jan Inwin (em inglês). Inclui palavras extintas, novas, humorísticas, etc. que possuem algum tipo de adoção pela comunidade.
 
 ## Sistemas de escrita
 
