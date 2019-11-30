@@ -4,14 +4,14 @@ Vamos continuar explorando orações simples, desta vez com os sujeitos "eu" e "
 
 ## Vocabulário
 
-- _sina_: Você(s), tu/vós.
-- _mi_: Eu, nós.
-- _ike_: Ruim, complicado, mal.
-- _kala_: Peixe ou outro animal marinho.
-- _ona_: Ela(s), ele(s).
-- _sona_: Saber, entender; conhecimento.
-- _soweli_: Animal fofo, geralmente mamíferos (cão, gato, boi, urso...).
-- _suli_: Grande, importante, velho.
+- [_sina_](../recursos/dicionario.md#sina): Você(s), tu/vós.
+- [_mi_](../recursos/dicionario.md#mi): Eu, nós.
+- [_ike_](../recursos/dicionario.md#ike): Ruim, complicado, mal.
+- [_kala_](../recursos/dicionario.md#kala): Peixe ou outro animal marinho.
+- [_ona_](../recursos/dicionario.md#ona): Ela(s), ele(s).
+- [_sona_](../recursos/dicionario.md#sona): Saber, entender; conhecimento.
+- [_soweli_](../recursos/dicionario.md#soweli): Animal fofo, geralmente mamíferos (cão, gato, boi, urso...).
+- [_suli_](../recursos/dicionario.md#suli): Grande, importante, velho.
 
 ## Aula
 

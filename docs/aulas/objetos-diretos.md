@@ -4,14 +4,14 @@ Poucas orações do dia-a-dia possuem apenas um sujeito e um verbo. Por isso, ob
 
 ## Vocabulário
 
-- _e_: Separa o verbo de um predicado e seu objeto direto.
-- _akesi_: Réptil (lagarto, cobra, tartaruga...) ou anfíbio (sapo, salamandra...).
-- _alasa_: Caçar, coletar, perseguir.
-- _jo_: Ter, carregar; posse.
-- _lipu_: Documento ou objeto plano, como um livro, papel ou cartão.
-- _lukin_: Ver, examinar; olho.
-- _pipi_: Inseto ou artrópode.
-- _waso_: Pássaro ou bicho voador.
+- [_e_](../recursos/dicionario.md#e): Separa o verbo de um predicado e seu objeto direto.
+- [_akesi_](../recursos/dicionario.md#akesi): Réptil (lagarto, cobra, tartaruga...) ou anfíbio (sapo, salamandra...).
+- [_alasa_](../recursos/dicionario.md#alasa): Caçar, coletar, perseguir.
+- [_jo_](../recursos/dicionario.md#jo): Ter, carregar; posse.
+- [_lipu_](../recursos/dicionario.md#lipu): Documento ou objeto plano, como um livro, papel ou cartão.
+- [_lukin_](../recursos/dicionario.md#lukin-ou-oko): Ver, examinar; olho.
+- [_pipi_](../recursos/dicionario.md#pipi): Inseto ou artrópode.
+- [_waso_](../recursos/dicionario.md#waso): Pássaro ou bicho voador.
 
 ## Aula
 

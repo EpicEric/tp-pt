@@ -4,14 +4,14 @@ A parte mais básica de qualquer língua é comunicar ações e estado. Para iss
 
 ## Vocabulário
 
-- _li_: Separa o sujeito de uma oração e seu predicado.
-- _ijo_: Coisa.
-- _jan_: Pessoa.
-- _kili_: Fruta, legume, cogumelo.
-- _moku_: Comer; comida.
-- _ni_: Essa/esse, aquela/aquele, isto.
-- _telo_: Molhar; líquido, água.
-- _toki_: Falar, comunicar; língua.
+- [_li_](../recursos/dicionario.md#li): Separa o sujeito de uma oração e seu predicado.
+- [_ijo_](../recursos/dicionario.md#ijo): Coisa.
+- [_jan_](../recursos/dicionario.md#jan): Pessoa.
+- [_kili_](../recursos/dicionario.md#kili): Fruta, legume, cogumelo.
+- [_moku_](../recursos/dicionario.md#moku): Comer; comida.
+- [_ni_](../recursos/dicionario.md#ni): Essa/esse, aquela/aquele, isto.
+- [_telo_](../recursos/dicionario.md#telo): Molhar; líquido, água.
+- [_toki_](../recursos/dicionario.md#toki): Falar, comunicar; língua.
 
 ## Aula
 

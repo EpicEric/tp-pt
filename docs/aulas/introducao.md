@@ -6,7 +6,7 @@ Se você ainda sentir dificuldades ou dúvidas, fique à vontade para pedir ajud
 
 ---
 
-Este curso está dividido em 16 lições. Tirando a primeira lição, cada uma é composta de um tópico sobre toki pona, 8 palavras do vocabulário, a aula, e alguns exemplos e exercícios. Você sempre pode retomar uma aula específica para estudar novamente o seu assunto, ou consultar o [dicionário](../recursos/dicionario.md) para refrescar a memória e decorar o vocabulário.
+Este curso está dividido em 16 lições. Tirando a primeira lição, cada uma é composta de um tópico sobre toki pona, 8 palavras do vocabulário com definições básicas (e links para o dicionário com definições completas), a aula em si, e alguns exemplos e exercícios. Você sempre pode retomar uma aula específica para estudar novamente o seu assunto, ou consultar o [dicionário](../recursos/dicionario.md) para refrescar a memória e decorar o vocabulário.
 
 ---
 
