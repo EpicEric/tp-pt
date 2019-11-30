@@ -98,7 +98,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _ilo toki_ - Celular
 - _ilo nanpa_/_ilo sona_ - Computador
 - _lipu nimi_ - Dicionário
-- _telo pimeja_ - Tinta
+- _telo pimeja_/_telo kule_ - Tinta
 - _telo wawa_ - Café ou combustível
 - _ilo kalama_ - Instrumento musical ou altofalante
 - _ilo moku_ - Talher (garfo, faca, colher)

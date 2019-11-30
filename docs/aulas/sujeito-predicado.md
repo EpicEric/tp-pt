@@ -19,13 +19,13 @@ A parte mais básica de qualquer língua é comunicar ações e estado. Para iss
 
 Todas as orações em toki pona seguem a estrutura sujeito-predicado. Assim como em português, você falaria:
 
-As pessoas | estão comendo | // | Isto | é uma fruta
+As pessoas | estão comendo. | // | Isto | é uma fruta.
 -|-|-|-|-
 sujeito | predicado | // | sujeito | predicado
 
 também se mantém a sequência em toki pona. Porém, separamos o sujeito do predicado com a palavra especial _li_. Isso deixa claro quando nos referimos a quem faz a ação (sujeito) e qual é a ação (predicado).
 
-_jan_ | _li_ | _moku_ | // | _ni_ | _li_ | _kili_
+_jan_ | _li_ | _moku._ | // | _ni_ | _li_ | _kili._
 -|-|-|-|-|-|-
 sujeito | \_ | predicado | // | sujeito | \_ | predicado
 
@@ -56,7 +56,7 @@ tp | pt
 _telo li ijo._ | Água é uma coisa.
 _jan li toki._ | As pessoas falam.
 _kili li moku._ | A maçã é comida. ou A maçã é comestível.
-_ni li toki._ | Isto está falando. ou Esta é uma língua.
+_ni li toki._ | Isto está falando. ou Este é um idioma.
 
 ## Exercícios
 

@@ -19,9 +19,9 @@ Vimos na aula anterior que todas as orações de sujeito e predicado seguem a me
 
 Uma grande parte das frases usam um desses dois sujeitos (por exemplo, "você está bem?" ou "eu aprendi toki pona"), então faz sentido simplificar a estrutura para simplificar a fala. No caso, a única diferença é que a palavra _li_ é deixada de lado e usamos a estrutura "mi PREDICADO" ou "sina PREDICADO".
 
-Por exemplo, podemos usar "_mi ike_" para dizer "eu estou mal" e "_sina moku_" para "você está comendo. Nesses casos, **é incorreto** falar "_mi li ike_" ou "_sina li moku_".
+Por exemplo, podemos usar "_mi ike_" para dizer "eu estou mal" e "_sina moku_" para "você está comendo". Nesses casos, **é incorreto** falar "_mi li ike_" ou "_sina li moku_".
 
-Esta exceção vale apenas para esses dois sujeitos. Aos demais, não é possível fazer esse tipo de simplificação -- por razões que serão explicadas em uma aula futura. Então, para escrever "ele está falando", ainda devemos adicionar _li_: "_ona li toki._"
+Esta exceção vale apenas para esses dois sujeitos. Aos demais, não é possível fazer esse tipo de simplificação -- por razões que serão explicadas em uma aula futura. Então, para escrever "ele está falando", ainda devemos adicionar _li_: "_ona li toki_". Também **está errado** escrever "_ona toki_".
 
 ## Exemplos
 
