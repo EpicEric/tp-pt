@@ -43,5 +43,4 @@ Agora, descubra os significados em português:
 
 ---
 
-Na próxima aula, .
-
+Na terceira e última revisão, será revisto todo o vocabulário de toki pona.

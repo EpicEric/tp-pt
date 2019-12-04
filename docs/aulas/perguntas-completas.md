@@ -43,5 +43,4 @@ Agora, descubra os significados em português:
 
 ---
 
-Na próxima aula, .
-
+Na segunda revisão, será revisto o vocabulário desde o começo do curso.
