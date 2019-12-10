@@ -2,6 +2,10 @@
 
 Este é o dicionário com as definições das 120 palavras em toki pona para português. As definições foram escritas a partir do livro _Toki Pona: The Language of Good_ e da [Lista Clássica de Palavras em tokipona.net](http://tokipona.net/tp/ClassicWordList.aspx).
 
+Você pode usar a tabela de conteúdo para navegar pelo dicionário e encontrar palavras pela primeira letra.
+
+### A
+
 #### _a_ ou _kin_
 
 _PARTÍCULA_ ah, ha, ó, bem (ênfase, emoção, risada ou confirmação)
@@ -50,6 +54,8 @@ _ADJETIVO_ duradouro, mantido, protegido, seguro, aguardante, que permance
 
 _PRÉ-VERBO_ continuar a
 
+### E
+
 #### _e_
 
 _PARTÍCULA_ (antes de objeto direto)
@@ -61,6 +67,8 @@ _PARTÍCULA_ (entre vários sujeitos)
 #### _esun_
 
 _SUBSTANTIVO_ mercado, loja, feira, bazar, transação comercial
+
+### I
 
 #### _ijo_
 
@@ -81,6 +89,8 @@ _SUBSTANTIVO_ ferramenta, implementação, máquina, dispositivo, objeto com pro
 #### _insa_
 
 _SUBSTANTIVO_ centro, conteúdo, interior, no meio de; órgão interno, estômago; mundo interno
+
+### J
 
 #### _jaki_
 
@@ -103,6 +113,8 @@ _ADJETIVO_ amarelo, amarelado
 #### _jo_
 
 _VERBO_ ter, carregar, possuir, segurar
+
+### K
 
 #### _kala_
 
@@ -163,6 +175,8 @@ _SUBSTANTIVO_ comunidade, companhia, grupo, nação, sociedade, pessoas, tribo, 
 _SUBSTANTIVO_ orelha; audição
 
 _VERBO_ escutar, ouvir; prestar atenção em, obedecer
+
+### L
 
 #### _la_
 
@@ -232,6 +246,8 @@ _PRÉ-VERBO_ almejar, buscar, tentar
 
 _SUBSTANTIVO_ porta, buraco, orifício, janela
 
+### M
+
 #### _ma_
 
 _SUBSTANTIVO_ terra, terreno; área externa, mundo; país, território; solo
@@ -292,6 +308,8 @@ _SUBSTANTIVO_ quantidade, abundância
 
 _NÚMERO_ três (3) ou mais; alternativamente, vinte (20)
 
+### N
+
 #### _nanpa_
 
 _PARTÍCULA_ ª/º (número ordinal)
@@ -322,6 +340,8 @@ _SUBSTANTIVO_ nome, palavra
 
 _SUBSTANTIVO_ perna, pé, órgão de locomoção; abaixo, parte inferior
 
+### O
+
 #### _o_
 
 _PARTÍCULA_ ei! ô! (vocativo ou imperativo)
@@ -337,6 +357,8 @@ _SUBSTANTIVO_ ele, ela, eles, elas
 #### _open_
 
 _VERBO_ começar, iniciar; abrir; ligar
+
+### P
 
 #### _pakala_
 
@@ -405,6 +427,8 @@ _VERBO_ melhorar, arrumar, consertar, tornar bom
 #### _pu_
 
 _VERBO_ interagir com o livro oficial de Toki Pona
+
+### S
 
 #### _sama_
 
@@ -488,6 +512,8 @@ _SUBSTANTIVO_ superfície horizontal, objeto sobre o qual deixar ou colocar algo
 
 _ADJETIVO_ doce, perfumado, adocicado; fofo, inocente, adorável
 
+### T
+
 #### _tan_
 
 _PREPOSIÇÃO_ desde, origem, porque, por causa de; originário de
@@ -530,6 +556,8 @@ _VERBO_ dividir em dois, tornar o dobro
 
 _NÚMERO_ dois (2)
 
+### U
+
 #### _unpa_
 
 _ADJETIVO_ sexual, erótico
@@ -545,6 +573,8 @@ _SUBSTANTIVO_ boca, lábios, cavidade oral, mandíbula
 _SUBSTANTIVO_ conflito, discórdia, competição, guerra; argumentação, violência
 
 _VERBO_ batalhar, desafiar, competir contra, lutar contra
+
+### W
 
 #### _walo_
 

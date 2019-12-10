@@ -8,6 +8,7 @@ repo_url: https://github.com/epiceric/tp-pt
 markdown_extensions:
   - toc:
       permalink: '#'
+      toc_depth: '1-3'
 plugins:
   - search:
       lang: pt
