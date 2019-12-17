@@ -100,12 +100,15 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _lipu nimi_ - Dicionário
 - _telo pimeja_/_telo kule_ - Tinta
 - _telo wawa_ - Café ou combustível
-- _ilo kalama_ - Instrumento musical ou altofalante
+- _ilo kalama_ - Instrumento musical, caixa de som, altofalante, etc.
 - _ilo moku_ - Talher (garfo, faca, colher)
 - _supa lape_ - Cama
 - _jan kiwen_ - Estátua
 - _palisa utala_ - Espada
 - _ilo utala_ - Arma (branca ou de fogo)
+- _ilo suno_ - Lanterna ou lâmpada
+- _len lawa_ - Chapéu
+- _len noka_ - Sapato ou calças
 
 ## Corpo
 
@@ -137,6 +140,7 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _tan la..._ - Porque... / Por causa de...
 - _jan seme_ - Quem
 - _lon seme_ - Onde / Aonde
+- _tenpo seme la..._ - Quando...
 
 ## Ações
 
@@ -156,8 +160,10 @@ Se o que você quer falar não está nesta lista, improvise! Descreva os aspecto
 - _tenpo pimeja ni_ - Hoje à noite
 - _tenpo kama_ - Futuro
 - _tenpo pini_ - Passado
-- _tenpo mute_ - Frequentemente
-- _tenpo lili_ - Raramente
+- _tenpo ale_ - Sempre
+- _tenpo mute_ - Frequentemente; lentamente
+- _tenpo lili_ - Raramente; rapidamente
+- _tenpo ala_ - Nunca
 
 ## Outros
 
